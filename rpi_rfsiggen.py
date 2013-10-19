@@ -109,7 +109,7 @@ root = Tk()
 # Set main window title
 root.wm_title('RPi RFSigGen')
 
-# Create instance of class WobbyPi
+# Create instance of class RPiRFSigGen
 app = RPiRFSigGen(root)
 
 # Start main loop and wait for input from GUI
